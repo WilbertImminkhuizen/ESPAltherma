@@ -4,7 +4,7 @@
 #define WIFI_PWD "password"//**Your password here** leave empty if open (bad!)
 
 //Uncomment this to set a static IP instead of DHCP for the ESP (Separate by commas instead of dots)
-//#define WIFI_IP 192, 168, 0, 5
+//#define WIFI_IP 192, 168, 178, 102
 //#define WIFI_SUBNET 255, 255, 255, 0
 //#define WIFI_GATEWAY 192, 168, 0, 1
 //#define WIFI_PRIMARY_DNS 8, 8, 8, 8     //optional
